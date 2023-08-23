@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Carlos Mario</h1>
-<h2 align="center">I like web development and I love video games</h2>
+<h2 align="center">¿Parchados?</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/mlCb3AjEE6N4Q/giphy.gif" alt="GIF de Naruto">
